@@ -10,5 +10,8 @@ Developed By:
 		S.M. Muhaiminul Islam (160240)
 		
 
-Project Manager :Project Manager : Dr. Kazi Masudul Alam Associate Professor Computer Science & Engineering Discipline Khulna University, Khulna, Bangladesh
-& Dr. Manishankar Mondal Assistant Professor Computer Science & Engineering Discipline Khulna University, Khulna, Bangladesh
+Project Manager : Dr. Kazi Masudul Alam, Associate Professor Computer Science & Engineering Discipline Khulna University, Khulna, Bangladesh
+
+& 
+Dr. Manishankar Mondal , Assistant Professor Computer Science & Engineering Discipline Khulna University, Khulna, Bangladesh
+
