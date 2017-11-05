@@ -6,7 +6,7 @@ Project Description:
 
 
 Developed By:
-		MD. Tanvir Hossain Hemel (160238)
+		MD. Tanvir Hossain Hemel (160238) & 
 		S.M. Muhaiminul Islam (160240)
 		
 
