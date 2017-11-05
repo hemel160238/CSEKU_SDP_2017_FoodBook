@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "744871596556",
+    "firebase_url": "https://foodblog-b76bb.firebaseio.com",
+    "project_id": "foodblog-b76bb",
+    "storage_bucket": "foodblog-b76bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744871596556:android:b72022be47433d36",
+        "android_client_info": {
+          "package_name": "com.example.asus.foodblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744871596556-9qqm0651imj2b5iorsao60lksea2i8e0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asus.foodblog",
+            "certificate_hash": "bf9bdec360e51fabf544f7eb00fa3362961301af"
+          }
+        },
+        {
+          "client_id": "744871596556-52rl7ufau86mvhdavkr28hkfpdt73ggl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2jIKsOeyFphMEkgUKfVHz8zAtIkDPbFo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744871596556-52rl7ufau86mvhdavkr28hkfpdt73ggl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

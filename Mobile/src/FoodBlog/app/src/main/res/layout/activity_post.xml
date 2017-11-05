@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.asus.foodblog.PostActivity">
+
+    <ImageButton
+        android:id="@+id/imageSelect"
+        android:layout_width="360dp"
+        android:layout_height="320dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:scaleType="fitXY"
+
+        app:srcCompat="@mipmap/add_btn" />
+
+    <LinearLayout
+        android:layout_width="360dp"
+        android:layout_height="320dp"
+        android:orientation="vertical"
+        android:layout_below="@+id/imageSelect"
+        android:layout_alignStart="@+id/imageSelect">
+
+        <EditText
+            android:id="@+id/titleField"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/input_outline"
+            android:ems="10"
+            android:hint="Restaurant or Place..."
+            android:inputType="textPersonName"
+            android:padding="15dp" />
+
+        <EditText
+            android:id="@+id/descField"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25dp"
+            android:background="@drawable/input_outline"
+            android:ems="10"
+            android:hint="Enter Post Description..."
+            android:inputType="textMultiLine"
+            android:padding="15dp" />
+
+        <Button
+            android:id="@+id/submitBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25dp"
+            android:background="#FF0000"
+            android:text="Submit"
+            android:textColor="@android:color/white" />
+    </LinearLayout>
+</RelativeLayout>
