@@ -1,0 +1,324 @@
+{
+  "Blog" : {
+    "-Kw1jfN1R3dP2ZlPuhAK" : {
+      "desc" : "It was really awesome...\nPrice 70 tk",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/foodblog-b76bb.appspot.com/o/Blog_Image%2F1540968484?alt=media&token=c04a1e9b-8581-464d-a112-9e48b3b7b919",
+      "title" : "Bistro-C",
+      "uid" : "uZnTttePy7WcGVRIXw8XUSnBtJr2",
+      "username" : "Muhaiminul Islam"
+    },
+    "-Kw1kFdyFvKgW4xG7Ilt" : {
+      "desc" : "Nice and spicy\nprice 320 tk",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/foodblog-b76bb.appspot.com/o/Blog_Image%2F1699281850?alt=media&token=203005f4-fd35-458e-808c-bb90c9eab6b7",
+      "title" : "Chillers Dhanmondi",
+      "uid" : "uZnTttePy7WcGVRIXw8XUSnBtJr2",
+      "username" : "Muhaiminul Islam"
+    },
+    "-Kw3duo79P_afBgtJX2K" : {
+      "desc" : "Yummy...\nprice-420 tk",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/foodblog-b76bb.appspot.com/o/Blog_Image%2F703823830?alt=media&token=55c8b5e1-2595-442f-9730-63d9b7060691",
+      "title" : "Pizza Bazar,Khulna",
+      "uid" : "Y2jiQPLluucIN6mAJliZHwrCSP33",
+      "username" : "Moushan Naznin"
+    },
+    "-Kw3uMN0Lhn_MHjTMqBb" : {
+      "desc" : "Set menu...nice\nPrice-220 tk",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/foodblog-b76bb.appspot.com/o/Blog_Image%2F1847872112?alt=media&token=6ed20a99-468e-40d7-b8a2-4b3e7a893905",
+      "title" : "King Swarma,Khulna",
+      "uid" : "3ffxyxB8KBeK4G5JLzJScavPMtm1",
+      "username" : "moumita"
+    },
+    "-Kx9NaLHK1IWspVbH58v" : {
+      "desc" : "Worst",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/foodblog-b76bb.appspot.com/o/Blog_Image%2F2117707995?alt=media&token=6ffc56de-0a39-4936-834e-1d3c956fca80",
+      "title" : "We hungry",
+      "uid" : "LnQZEE1HsUZH7CLN1Be1FT04Zzx1",
+      "username" : "Israt Jahan"
+    },
+    "-Kxm5Kmw_pUBcHaFYEZ6" : {
+      "desc" : "yammy...",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/foodblog-b76bb.appspot.com/o/Blog_Image%2Fstorage%2Femulated%2F0%2FDCIM%2FCamera%2FIMG_20170930_212447.jpg?alt=media&token=dd909bb9-9149-464d-86fb-3ab5b33a7891",
+      "title" : "Chittagong Darbar",
+      "uid" : "CRXqYZxNk3azz9Lao0A98q0UXbk2",
+      "username" : "Samiha Ahmed"
+    }
+  },
+  "Dislikes" : {
+    "-KuNWT_OF6jhhToEg538" : {
+      "FJITHDmElGetFUt68rHwpLR8rtZ2" : "RandomAgain"
+    },
+    "-KvSDVo9TPCuD-7WUCzj" : {
+      "FJITHDmElGetFUt68rHwpLR8rtZ2" : "RandomAgain"
+    },
+    "-KvTE8POWLVcTX9Wlly6" : {
+      "FJITHDmElGetFUt68rHwpLR8rtZ2" : "RandomAgain"
+    },
+    "-Kw1iLDFSw5fbZVkk4fw" : {
+      "FJITHDmElGetFUt68rHwpLR8rtZ2" : "RandomAgain"
+    },
+    "-Kw1jfN1R3dP2ZlPuhAK" : {
+      "7L0xcicvVBdqOO1LkCKHFUEmanv2" : "RandomAgain",
+      "LnQZEE1HsUZH7CLN1Be1FT04Zzx1" : "RandomAgain",
+      "Y2jiQPLluucIN6mAJliZHwrCSP33" : "RandomAgain"
+    },
+    "-Kw1kFdyFvKgW4xG7Ilt" : {
+      "dFgWLwsOiqWO7oO7DLWj1tLikLr1" : "RandomAgain"
+    },
+    "-Kw3duo79P_afBgtJX2K" : {
+      "FJITHDmElGetFUt68rHwpLR8rtZ2" : "RandomAgain"
+    },
+    "-Kx9NaLHK1IWspVbH58v" : {
+      "dFgWLwsOiqWO7oO7DLWj1tLikLr1" : "RandomAgain"
+    },
+    "-Kxm5Kmw_pUBcHaFYEZ6" : {
+      "LnQZEE1HsUZH7CLN1Be1FT04Zzx1" : "RandomAgain"
+    }
+  },
+  "IndividualRating" : {
+    "-Kw1jfN1R3dP2ZlPuhAK" : {
+      "7L0xcicvVBdqOO1LkCKHFUEmanv2" : {
+        "Rating" : "4.0"
+      },
+      "CRXqYZxNk3azz9Lao0A98q0UXbk2" : {
+        "Rating" : "4.0"
+      },
+      "LnQZEE1HsUZH7CLN1Be1FT04Zzx1" : {
+        "Rating" : "1.5"
+      },
+      "uZnTttePy7WcGVRIXw8XUSnBtJr2" : {
+        "Rating" : "5.0"
+      }
+    },
+    "-Kw1kFdyFvKgW4xG7Ilt" : {
+      "7L0xcicvVBdqOO1LkCKHFUEmanv2" : {
+        "Rating" : "3.0"
+      },
+      "LnQZEE1HsUZH7CLN1Be1FT04Zzx1" : {
+        "Rating" : "2.0"
+      },
+      "dFgWLwsOiqWO7oO7DLWj1tLikLr1" : {
+        "Rating" : "2.0"
+      },
+      "uZnTttePy7WcGVRIXw8XUSnBtJr2" : {
+        "Rating" : "4.0"
+      }
+    },
+    "-Kw3duo79P_afBgtJX2K" : {
+      "LnQZEE1HsUZH7CLN1Be1FT04Zzx1" : {
+        "Rating" : "4.0"
+      },
+      "dFgWLwsOiqWO7oO7DLWj1tLikLr1" : {
+        "Rating" : "3.0"
+      },
+      "uZnTttePy7WcGVRIXw8XUSnBtJr2" : {
+        "Rating" : "0.5"
+      }
+    },
+    "-Kw3uMN0Lhn_MHjTMqBb" : {
+      "7L0xcicvVBdqOO1LkCKHFUEmanv2" : {
+        "Rating" : "3.0"
+      },
+      "LnQZEE1HsUZH7CLN1Be1FT04Zzx1" : {
+        "Rating" : "5.0"
+      },
+      "uZnTttePy7WcGVRIXw8XUSnBtJr2" : {
+        "Rating" : "2.0"
+      }
+    },
+    "-Kx9NaLHK1IWspVbH58v" : {
+      "LnQZEE1HsUZH7CLN1Be1FT04Zzx1" : {
+        "Rating" : "4.5"
+      },
+      "uZnTttePy7WcGVRIXw8XUSnBtJr2" : {
+        "Rating" : "2.0"
+      }
+    },
+    "-Kx9RhBfiWBN_Zg4nf0q" : {
+      "7L0xcicvVBdqOO1LkCKHFUEmanv2" : {
+        "Rating" : "5.0"
+      },
+      "LnQZEE1HsUZH7CLN1Be1FT04Zzx1" : {
+        "Rating" : "2.0"
+      },
+      "uZnTttePy7WcGVRIXw8XUSnBtJr2" : {
+        "Rating" : "5.0"
+      }
+    },
+    "-Kxm5Kmw_pUBcHaFYEZ6" : {
+      "CRXqYZxNk3azz9Lao0A98q0UXbk2" : {
+        "Rating" : "4.0"
+      },
+      "LnQZEE1HsUZH7CLN1Be1FT04Zzx1" : {
+        "Rating" : "3.0"
+      },
+      "dFgWLwsOiqWO7oO7DLWj1tLikLr1" : {
+        "Rating" : "1.5"
+      }
+    },
+    "-Ky98cKAnc7xsrK7yJWa" : {
+      "dFgWLwsOiqWO7oO7DLWj1tLikLr1" : {
+        "Rating" : "4.0"
+      }
+    }
+  },
+  "Likes" : {
+    "-KuNO27-AHvCEgG1fQZm" : {
+      "FJITHDmElGetFUt68rHwpLR8rtZ2" : "Random"
+    },
+    "-KuNWdkP7afVY4N2RWTg" : {
+      "FJITHDmElGetFUt68rHwpLR8rtZ2" : "Random"
+    },
+    "-KuONR66Y0Xw_NEWIf6n" : {
+      "FJITHDmElGetFUt68rHwpLR8rtZ2" : "Random"
+    },
+    "-KvYZIHv2bBOHbxqXTnd" : {
+      "FJITHDmElGetFUt68rHwpLR8rtZ2" : "Random"
+    },
+    "-Kw1iLDFSw5fbZVkk4fw" : {
+      "3ffxyxB8KBeK4G5JLzJScavPMtm1" : "Random",
+      "Y2jiQPLluucIN6mAJliZHwrCSP33" : "Random",
+      "uZnTttePy7WcGVRIXw8XUSnBtJr2" : "Random"
+    },
+    "-Kw1jfN1R3dP2ZlPuhAK" : {
+      "3ffxyxB8KBeK4G5JLzJScavPMtm1" : "Random",
+      "FJITHDmElGetFUt68rHwpLR8rtZ2" : "Random",
+      "dFgWLwsOiqWO7oO7DLWj1tLikLr1" : "Random"
+    },
+    "-Kw1kFdyFvKgW4xG7Ilt" : {
+      "3ffxyxB8KBeK4G5JLzJScavPMtm1" : "Random",
+      "7L0xcicvVBdqOO1LkCKHFUEmanv2" : "Random",
+      "FJITHDmElGetFUt68rHwpLR8rtZ2" : "Random",
+      "Y2jiQPLluucIN6mAJliZHwrCSP33" : "Random"
+    },
+    "-Kw3duo79P_afBgtJX2K" : {
+      "3ffxyxB8KBeK4G5JLzJScavPMtm1" : "Random",
+      "LnQZEE1HsUZH7CLN1Be1FT04Zzx1" : "Random",
+      "Y2jiQPLluucIN6mAJliZHwrCSP33" : "Random",
+      "uZnTttePy7WcGVRIXw8XUSnBtJr2" : "Random"
+    },
+    "-Kx8J-npAVDfcHWYmCkj" : {
+      "7L0xcicvVBdqOO1LkCKHFUEmanv2" : "Random"
+    },
+    "-Kx9NaLHK1IWspVbH58v" : {
+      "LnQZEE1HsUZH7CLN1Be1FT04Zzx1" : "Random"
+    },
+    "-Kx9RhBfiWBN_Zg4nf0q" : {
+      "uZnTttePy7WcGVRIXw8XUSnBtJr2" : "Random"
+    },
+    "-KxBwd2qIUp5wv9uocwT" : {
+      "CRXqYZxNk3azz9Lao0A98q0UXbk2" : "Random"
+    },
+    "-Kxm5Kmw_pUBcHaFYEZ6" : {
+      "CRXqYZxNk3azz9Lao0A98q0UXbk2" : "Random",
+      "dFgWLwsOiqWO7oO7DLWj1tLikLr1" : "Random"
+    },
+    "-Ky98cKAnc7xsrK7yJWa" : {
+      "dFgWLwsOiqWO7oO7DLWj1tLikLr1" : "Random"
+    }
+  },
+  "Rating" : {
+    "-Kw1jfN1R3dP2ZlPuhAK" : {
+      "7L0xcicvVBdqOO1LkCKHFUEmanv2" : "4.0",
+      "CRXqYZxNk3azz9Lao0A98q0UXbk2" : "4.0",
+      "LnQZEE1HsUZH7CLN1Be1FT04Zzx1" : "1.5",
+      "uZnTttePy7WcGVRIXw8XUSnBtJr2" : "5.0"
+    },
+    "-Kw1kFdyFvKgW4xG7Ilt" : {
+      "7L0xcicvVBdqOO1LkCKHFUEmanv2" : "3.0",
+      "LnQZEE1HsUZH7CLN1Be1FT04Zzx1" : "2.0",
+      "dFgWLwsOiqWO7oO7DLWj1tLikLr1" : "2.0",
+      "uZnTttePy7WcGVRIXw8XUSnBtJr2" : "4.0"
+    },
+    "-Kw3duo79P_afBgtJX2K" : {
+      "LnQZEE1HsUZH7CLN1Be1FT04Zzx1" : "4.0",
+      "dFgWLwsOiqWO7oO7DLWj1tLikLr1" : "3.0",
+      "uZnTttePy7WcGVRIXw8XUSnBtJr2" : "0.5"
+    },
+    "-Kw3uMN0Lhn_MHjTMqBb" : {
+      "7L0xcicvVBdqOO1LkCKHFUEmanv2" : "3.0",
+      "LnQZEE1HsUZH7CLN1Be1FT04Zzx1" : "5.0",
+      "uZnTttePy7WcGVRIXw8XUSnBtJr2" : "2.0"
+    },
+    "-Kx9NaLHK1IWspVbH58v" : {
+      "LnQZEE1HsUZH7CLN1Be1FT04Zzx1" : "4.5",
+      "uZnTttePy7WcGVRIXw8XUSnBtJr2" : "2.0"
+    },
+    "-Kx9RhBfiWBN_Zg4nf0q" : {
+      "7L0xcicvVBdqOO1LkCKHFUEmanv2" : "5.0",
+      "LnQZEE1HsUZH7CLN1Be1FT04Zzx1" : "2.0",
+      "uZnTttePy7WcGVRIXw8XUSnBtJr2" : "5.0"
+    },
+    "-Kxm5Kmw_pUBcHaFYEZ6" : {
+      "CRXqYZxNk3azz9Lao0A98q0UXbk2" : "4.0",
+      "LnQZEE1HsUZH7CLN1Be1FT04Zzx1" : "3.0",
+      "dFgWLwsOiqWO7oO7DLWj1tLikLr1" : "1.5"
+    },
+    "-Ky98cKAnc7xsrK7yJWa" : {
+      "dFgWLwsOiqWO7oO7DLWj1tLikLr1" : "4.0"
+    }
+  },
+  "Users" : {
+    "3ffxyxB8KBeK4G5JLzJScavPMtm1" : {
+      "email" : "hemelmou@gmail.com",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/foodblog-b76bb.appspot.com/o/Profile_images%2Fcropped-31811797.jpg?alt=media&token=75d2b267-80d5-4c3b-aa90-ef6fe88fd63a",
+      "name" : "moumita",
+      "nickName" : "M.H.S",
+      "password" : "samiha",
+      "place" : "ku"
+    },
+    "7L0xcicvVBdqOO1LkCKHFUEmanv2" : {
+      "email" : "mesu@lul.com",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/foodblog-b76bb.appspot.com/o/Profile_images%2Fcropped889662240.jpg?alt=media&token=133ef4ce-8bcd-45d3-9a73-3dbc3dbf27da",
+      "name" : "Mesu",
+      "nickName" : "Fatima",
+      "password" : "mollik",
+      "place" : "CNB"
+    },
+    "CRXqYZxNk3azz9Lao0A98q0UXbk2" : {
+      "email" : "samihasaint@gmail.com",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/foodblog-b76bb.appspot.com/o/Profile_images%2Fcropped1861386849.jpg?alt=media&token=cadfd5ca-344e-43af-8b31-efe1398cfe10",
+      "name" : "Samiha Ahmed",
+      "nickName" : "Samiha",
+      "password" : "saint09",
+      "place" : "Khulna"
+    },
+    "LnQZEE1HsUZH7CLN1Be1FT04Zzx1" : {
+      "email" : "joya@gmail.com",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/foodblog-b76bb.appspot.com/o/Profile_images%2Fcropped-1611373117.jpg?alt=media&token=d1ffde2d-c774-4f9e-af8e-7a004469ce6d",
+      "name" : "Israt Jahan",
+      "nickName" : "Joya",
+      "password" : "letein",
+      "place" : "Khulna"
+    },
+    "Y2jiQPLluucIN6mAJliZHwrCSP33" : {
+      "email" : "mou@kucse.ac.bd",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/foodblog-b76bb.appspot.com/o/Profile_images%2Fcropped591990223.jpg?alt=media&token=59a88788-1803-4697-bf0b-5a4e4edeb699",
+      "name" : "Moushan Naznin",
+      "nickName" : "Mou",
+      "password" : "moushan",
+      "place" : "Khulna"
+    },
+    "bHCJN0XDmlfjCzjEgMREwlvcSbt1" : {
+      "email" : "eeshan@kucse.ac.bd",
+      "image" : "default",
+      "name" : "Muhaiminul Islam Eeshan",
+      "password" : "eeshan123",
+      "place" : "Khulna University"
+    },
+    "dFgWLwsOiqWO7oO7DLWj1tLikLr1" : {
+      "email" : "eshan@cseku.ac.bd",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/foodblog-b76bb.appspot.com/o/Profile_images%2Fcropped573448051.jpg?alt=media&token=a8193b4c-3bcd-412d-9297-4c8891274f0e",
+      "name" : "Muhaiminul Islam",
+      "nickName" : "Eeshan",
+      "password" : "eeshan123",
+      "place" : "Khulna University"
+    },
+    "edIssyGB2bS3jb3hREFtzVWTZ8h2" : {
+      "email" : "hemel@cseku.ac.bd",
+      "image" : "default",
+      "name" : "Tanvir Hossain",
+      "password" : "hemel123",
+      "place" : "Khulna"
+    }
+  }
+}
